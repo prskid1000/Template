@@ -1,6 +1,7 @@
 # Template
 A Template Repository
 
+Repository status([badge](https://img.shields.io/badge/)):
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -17,7 +18,7 @@ working together as a team with various unique experiences and minds culminated
 into a single project. This is only possible if we respect each other.
 
 Kindly go through our
-[Code of Conduct](./github/CODE_OF_CONDUCT_TEMPLATE/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/prskid1000/Template/blob/main/.github/CODE_OF_CONDUCT_TEMPLATE/CODE_OF_CONDUCT.md)
 to take a moment and familiarise with the spirit of opensource.
 
 ## Contributing Guide
@@ -29,7 +30,7 @@ and same goes for the back-end too.
 - Kindly follow the Pull Request template provided.
 
 For more details kindly go through our
-[Contributing Guidelines.](./github/CONTRIBUTING_TEMPLATE/CONTRIBUTING.md)
+[Contributing Guidelines.](https://github.com/prskid1000/Template/blob/main/.github/CONTRIBUTING_TEMPLATE/CONTRIBUTING.md)
 
 ## Contributors ✨
 
